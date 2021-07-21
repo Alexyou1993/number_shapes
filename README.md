@@ -1,16 +1,11 @@
 # number_shapes
 
-A new Flutter project.
+A new Flutter project made for fun and interact with more commands.
 
-## Getting Started
+## Actual Screens
 
-This project is a starting point for a Flutter application.
+![image](https://user-images.githubusercontent.com/48081857/126455580-4a9ac261-bac9-4a03-b358-2d28376c6d07.jpg)
 
-A few resources to get you started if this is your first Flutter project:
+![image2](https://user-images.githubusercontent.com/48081857/126455773-6ee3b6e9-ce03-4bf5-b4f2-4d4a38b0a2a0.jpg)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image3](https://user-images.githubusercontent.com/48081857/126455850-f317cb51-da16-4f95-8c6a-882080825c3b.jpg)
